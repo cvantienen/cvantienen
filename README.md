@@ -4,7 +4,7 @@
 My main passion lies in **Python**, where I delve deep into **data analysis** and **web development**. However, I'm always eager to explore other languages and technologies, continuously broadening my skill set.
 
 ## Background 💼
-After honing my skills in multitasking and customer service during a rewarding **7-year tenure** in the restaurant industry, I made a transition to **GSA Contracting Services** in 2022. Now, I specialize as an **authorized negotiator**, leveraging my background in programming to craft efficient data processing tools.
+Since the age of 16, I've been immersed in the restaurant world. After honing my skills for 8 years and realizing my ambition of becoming a head chef, I transitioned to pursue my lifelong passion for programming. Crafting numerous apps and websites along the way, I joined GSA Contracting Services in 2022 as an authorized negotiator, adeptly handling contract negotiations for various companies. Moreover, I leverage my programming expertise to engineer efficient data processing tools.
 
 ## What You'll Find Here 📚
 - **Python Projects:** From data analysis scripts to web frameworks, Python is my primary playground.
