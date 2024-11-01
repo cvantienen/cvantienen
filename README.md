@@ -1,7 +1,3 @@
-Here’s a version that strikes a balance between professionalism and passion:
-
----
-
 ## About Me 🚀
 I am a dedicated programmer with a strong focus on cybersecurity since 2015. My primary language is **Python**, which I appreciate for its simplicity and versatility. While I thrive in Python, I also enjoy exploring a variety of programming languages and technologies.
 
