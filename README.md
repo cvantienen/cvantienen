@@ -1,8 +1,8 @@
 ## About Me 🚀
-I am a dedicated programmer with a strong focus on cybersecurity since 2015. My primary language is **Python**, which I appreciate for its simplicity and versatility. While I thrive in Python, I also enjoy exploring a variety of programming languages and technologies.
+I am a dedicated programmer with a strong focus on cybersecurity since 2015 and have been working as a government contractor since 2021. My primary language is Python, which I appreciate for its simplicity and versatility.
 
 ## Projects 🌐
-I’ve developed several websites and applications that reflect my interests and skills:
+ I have independently built the following websites and applications:
 
 - **codyvantienen.com**: My personal website, showcasing my portfolio and projects.
 - **gsa-help.com**: A software solution designed to enhance government sales processes.
