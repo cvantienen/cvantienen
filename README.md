@@ -1,17 +1,27 @@
+Here’s a version that strikes a balance between professionalism and passion:
 
+---
 
 ## About Me 🚀
-My main passion lies in **Python**, where I delve deep into **data analysis** and **web development**. However, I'm always eager to explore other languages and technologies, continuously broadening my skill set.
+I am a dedicated programmer with a strong focus on cybersecurity since 2015. My primary language is **Python**, which I appreciate for its elegance and versatility. While I thrive in Python, I also enjoy exploring a variety of programming languages and technologies, always eager to take on new challenges and expand my expertise.
 
-## Background 💼
-I started in restaurants at 16 and switched to programming after 8 years. Since 2022, I've been with GSA Contracting Services as an authorized negotiator, managing contract negotiations for diverse firms while applying my programming skills to develop efficient data processing tools.
+## Projects 🌐
+I’ve developed several websites and applications that reflect my interests and skills:
 
-## What You'll Find Here 📚
-- **Python Projects:** From data analysis scripts to web frameworks, Python is my primary playground.
-- **Dabbling in Other Languages:** I enjoy exploring various languages and technologies to expand my horizons.
-- **Raspberry Pi:** Experimenting with **C** and **MicroPython** on Raspberry Pi
+- **codyvantienen.com**: My personal website, showcasing my portfolio and projects.
+- **gsa-help.com**: A software solution designed to enhance government sales processes.
+- **chikcam.com**: An interactive streaming platform featuring a unique chicken cam, built with ESP32 technology.
+- **snoopyou.com**: An OSINT (Open Source Intelligence) investigation tool that provides public access to valuable data and resources for online research.
 
-## Personal Interests 🌊🍳🌿
-My interests encompass the exploration of radio wave technology and software-defined radio (SDR), complemented by pursuits
-such as surfing, outdoor activities, and occasional gardening endeavors.
+## Skills & Interests 💻
+My work encompasses:
+
+- **Python Development**: I specialize in creating data analysis scripts and web applications, leveraging Python’s powerful ecosystem.
+- **Reverse Engineering**: I have a passion for reverse engineering embedded devices, allowing me to deepen my understanding of hardware-software interactions.
+- **Radio Technology**: I enjoy exploring radio technologies and software-defined radio (SDR), applying my knowledge to various innovative projects.
+- **Diverse Technologies**: I embrace opportunities to work with different programming languages and frameworks, enhancing my versatility as a developer.
+
+---
+
+Feel free to modify any part to ensure it reflects your voice!
 
