@@ -5,7 +5,7 @@ Currently at GSA Contracting Services . My primary language is Python, which I a
  I have independently built the following websites and applications:
 
 - **codyvantienen.com**: My personal website, showcasing my portfolio and projects.
-- **gsa-help.com**: A software solution designed to enhance government sales processes.
+- **gsanerds.com**: A software solution designed to enhance government sales processes.
 - **chikcam.com**: An interactive streaming platform featuring a unique chicken cam, built with esp32 develeopment boards 
 - **snoopyou.com**: An OSINT (Open Source Intelligence) investigation tool that provides public access to valuable data and resources for online research.
 
