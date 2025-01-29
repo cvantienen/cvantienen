@@ -1,5 +1,5 @@
 ## About Me 🚀
-I am a dedicated programmer with a strong focus on cybersecurity since 2015 and have been working as a government contractor since 2021. My primary language is Python, which I appreciate for its simplicity and versatility.
+Currently at GSA Contracting Services . My primary language is Python, which I appreciate for its simplicity and versatility.
 
 ## Projects 🌐
  I have independently built the following websites and applications:
