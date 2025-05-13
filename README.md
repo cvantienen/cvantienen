@@ -1,20 +1,27 @@
+Absolutely — here’s a more minimal and professional version:
+
+---
+
 ## About Me 🚀
-Currently at GSA Contracting Services . My primary language is Python, which I appreciate for its simplicity and versatility.
+
+I work with GSA Contracting Services, primarily using Python for its clarity and flexibility.
 
 ## Projects 🌐
- I have independently built the following websites and applications:
 
-- **codyvantienen.com**: My personal website, showcasing my portfolio and projects.
-- **gsanerds.com**: A software solution designed to enhance government sales processes.
-- **chikcam.com**: An interactive streaming platform featuring a unique chicken cam, built with esp32 develeopment boards 
-- **snoopyou.com**: An OSINT (Open Source Intelligence) investigation tool that provides public access to valuable data and resources for online research.
+A few things I’ve built:
+
+* **codyvantienen.com** – Personal portfolio and project hub.
+* **gsanerds.com** – Tools to support and simplify government sales.
+* **chikcam.com** – Live-streaming platform powered by ESP32 boards.
+* **snoopyou.com** – OSINT tool offering public access to online research data.
 
 ## Skills & Interests 💻
-My work encompasses:
 
-- **Python Development**: I specialize in creating data analysis scripts and web applications, leveraging Python’s powerful ecosystem.
-- **Reverse Engineering**: I have a passion for reverse engineering embedded devices, allowing me to deepen my understanding of hardware-software interactions.
-- **Radio Technology**: I enjoy exploring radio technologies and software-defined radio (SDR), applying my knowledge to various innovative projects.
+* **Python** – Web development, automation, and data analysis.
+* **Reverse Engineering** – Focused on embedded systems and firmware.
+* **Radio Technology** – Exploring SDR and wireless communications.
+
+
 
 
 
