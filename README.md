@@ -1,9 +1,3 @@
-Absolutely — here’s a more minimal and professional version:
-
----
-
-## About Me 🚀
-
 I work with GSA Contracting Services, primarily using Python for its clarity and flexibility.
 
 ## Projects 🌐
